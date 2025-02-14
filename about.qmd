@@ -4,6 +4,5 @@ title: "About"
 
 Hello, my name is Tessa! I have a passion for environmental education; specifically I love teaching people about different natural systems of the Earth. I am most interested in insects and plants. Thank you for visiting!
 
-```{r}
-1 + 1
+```{}
 ```

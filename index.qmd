@@ -15,7 +15,3 @@ about:
 ## ![](images/clipboard-2090484452.png){width="278"}
 
 Hello, I'm Tessa! :)
-
-```{r}
-1 + 1
-```
