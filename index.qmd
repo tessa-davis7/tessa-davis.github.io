@@ -3,17 +3,19 @@ title: "Tessa Davis"
 toc: false
 about:
   template: trestles
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/tessadavis7/
+    - text: GitHub
+      href: https://github.com/tessa-davis7
+    - text: Email
+      href: mailto:tessa7@colostate.edu
+---
+
+![](images/clipboard-2090484452.png)
 ---
 
 Hello, I'm Tessa! :)
-
-links:
- - text: LinkedIn
-href: <https://www.linkedin.com/in/tessadavis7/>
- - text: GitHub
-href: <https://github.com/tessa-davis7>
- - text: Email
-href: mailto:tessa7\@colostate.edu
 
 ```{r}
 1 + 1

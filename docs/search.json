@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "https://docs.google.com/document/d/1pai5-EVOCmSyCtGXp9Rz3jX8wFVhy0xB_VXFoLipKVM/edit?usp=sharing"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tessa Davis",
     "section": "",
-    "text": "Hello, I’m Tessa! :)\nlinks: - text: LinkedIn href: https://www.linkedin.com/in/tessadavis7/ - text: GitHub href: https://github.com/tessa-davis7 - text: Email href: mailto:tessa7@colostate.edu\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I’m Tessa! :)\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
