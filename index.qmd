@@ -12,8 +12,7 @@ about:
       href: mailto:tessa7@colostate.edu
 ---
 
-![](images/clipboard-2090484452.png)
----
+## ![](images/clipboard-2090484452.png)
 
 Hello, I'm Tessa! :)
 

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Tessa Davis"
+  favicon: "c:/Users/tessa/Downloads/Logo maker project.png"
   navbar:
     left:
       - href: index.qmd
