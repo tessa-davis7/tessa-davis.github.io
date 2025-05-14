@@ -13,6 +13,8 @@ In lab 1 I worked on creating personal websites through RStudio. This is the web
 
 In Lab 2 I used data on tree growth in Minnesota and focused on using, altering, and understanding data in RStudio. While completing the lab I learned how to filter, slice, arrange, group, and manipulate columns in data. This lab consisted of questions that could be answered using the data. To answer the questions I had to preform tasks like filtering the data to give me answers like how many records there were for a particular tree species. I was also able to learn how to preform tasks like reducing, adding, or renaming columns which was useful.
 
+![](images/Screenshot_14-5-2025_155225_localhost.jpeg){width="318"}
+
 **Lab 5: Final Project - Proposals**
 
 In lab 5 I wrote two proposals for final project topics for my ESS 330 (Quantitative Reasoning for Ecosystem Science) class. For this lab I went through available data looking for topics I found interesting and could create an RStudio project for. I ended up selecting algal bloom rates in lakes in the U.S. using data from the Cyanobacteria Assessment Network led by NASA, NOAA, USGS, and the U.S. EPA. The second proposal centered around socioeconomic status in relation to exposure of industrially produced air pollution. This project would have used data from the EPA's Enviro site and the CDC to compare pollution related illness rates to proximity to toxin releasing facilities. This lab taught me how to identify data that is useful for different research topics I also learned about adding in Bibtec citations into RStudio.
